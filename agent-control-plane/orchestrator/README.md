@@ -2,7 +2,7 @@
 
 Phase 1 of the Agent Control Plane. A Discord bot that routes plain-English messages to channel-scoped tools via Gemini.
 
-Setup instructions: `../Phase_1_Walkthrough.md`. Phase map: `../Build_Plan.md`.
+Setup instructions: `../_archive/Phase_1_Walkthrough.md`. Phase map: `../_archive/Build_Plan.md`.
 
 ## Run
 

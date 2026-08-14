@@ -101,8 +101,8 @@ Paste the error to Claude. Don't ask the bot the same thing a fourth time.
 
 - Your website: `~/dev/style-report`
 - The bot: `orchestrator/`
-- What to build: `../Style Report/Job_Queue.md`
+- What to build: `../style-report/Job_Queue.md`
 - The roadmap: `Sprint_Plan.md`
-- Why you're building it: `../Style Report/Product_One_Pager.md`
+- Why you're building it: `../style-report/Product_One_Pager.md`
 
 Old setup guides are in `_archive/` if you ever need to redo a step.
