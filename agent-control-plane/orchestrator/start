@@ -1,0 +1,5 @@
+#!/bin/bash
+# Starts the bot. Handles the venv so you don't have to.
+cd "$(dirname "$0")" || exit 1
+source .venv/bin/activate
+exec python bot.py

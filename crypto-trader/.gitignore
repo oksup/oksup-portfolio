@@ -1,0 +1,10 @@
+.env
+data/*.db
+data/*.log
+data/model.json
+data/routine_heartbeat.txt
+logs/
+__pycache__/
+*.pyc
+.claude/settings.local.json
+.DS_Store

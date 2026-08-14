@@ -1,0 +1,5 @@
+discord.py>=2.4
+litellm>=1.60
+python-dotenv>=1.0
+tenacity>=8.0
+

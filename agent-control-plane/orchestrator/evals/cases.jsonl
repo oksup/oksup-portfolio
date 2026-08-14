@@ -1,0 +1,19 @@
+{"channel": "tasks", "message": "add a task to set up the landing page", "expect_tool": "create_task"}
+{"channel": "tasks", "message": "what's on the list right now?", "expect_tool": "list_tasks"}
+{"channel": "tasks", "message": "show me everything including finished ones", "expect_tool": "list_tasks"}
+{"channel": "tasks", "message": "task 1 is finished", "expect_tool": "complete_task"}
+{"channel": "tasks", "message": "make a task: write the pricing page copy, needs three tiers", "expect_tool": "create_task"}
+{"channel": "tasks", "message": "nuke task 3 permanently", "expect_tool": "delete_task"}
+{"channel": "tasks", "message": "what is the capital of France", "expect_tool": null}
+{"channel": "tasks", "message": "write a note about the architecture", "expect_tool": null}
+{"channel": "tasks", "message": "add a task to send the invoice by friday", "expect_tool": "create_task"}
+{"channel": "tasks", "message": "add a task to call the bank besok", "expect_tool": "create_task"}
+{"channel": "tasks", "message": "what's late?", "expect_tool": "list_tasks"}
+{"channel": "tasks", "message": "anything overdue?", "expect_tool": "list_tasks"}
+{"channel": "tasks", "message": "push task 3 to next monday", "expect_tool": "set_due_date"}
+{"channel": "tasks", "message": "task 3 doesn't have a deadline anymore", "expect_tool": "set_due_date"}
+{"channel": "tasks", "message": "when is task 3 due?", "expect_tool": "list_tasks"}
+{"channel": "wiki", "message": "save a note titled Pricing Model with the body: three tiers, free, pro, team", "expect_tool": "write_note"}
+{"channel": "wiki", "message": "what notes do we have", "expect_tool": "list_notes"}
+{"channel": "wiki", "message": "read me the pricing model note", "expect_tool": "read_note"}
+{"channel": "wiki", "message": "create a task for this", "expect_tool": null}
