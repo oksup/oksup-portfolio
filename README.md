@@ -12,6 +12,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [PMS reporting case study](pms-reporting/) | Reconstructing an 86-table PMS schema and clarifying joins, sales targets, revenue timing and attribution | MySQL, SQLite, SQL, Looker Studio |
 | [`crypto-trader/`](crypto-trader/) | Automated crypto trading pipeline: news-headline sentiment analysis → ML signal gate → paper-trading execution with PnL tracking and a live dashboard | Python, Binance API, scikit-learn, Streamlit |
 | [`agent-control-plane/`](agent-control-plane/) | Personal AI agent orchestrator: multi-model routing, token-cost tracking, tool registry, evals, and task seeding | Python, LLM APIs |
 | [`style-report/`](style-report/) | Product spec, one-pager, and sprint docs for a reporting web app | Product docs |
@@ -26,4 +27,5 @@ Python · data analysis · SQL · dashboards · CRM & reservation ops · SEM/SEO
 
 ---
 
-*Client work (hospitality CRM, marketing campaigns, financial operations) is confidential and not published here.*
+*Client data and internal source files remain confidential. The PMS case study describes reporting methods with company records and identifying details omitted.*
+
